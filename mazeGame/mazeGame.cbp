@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="mazeGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/mazeGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/mazeGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="boundaryFunctions.cpp" />
+		<Unit filename="characterFunctions.cpp" />
+		<Unit filename="checkWinFunctions.cpp" />
+		<Unit filename="credits.cpp" />
+		<Unit filename="drawFunctions.cpp" />
+		<Unit filename="generateMaze.cpp" />
+		<Unit filename="instructions.cpp" />
+		<Unit filename="maze.h" />
+		<Unit filename="mazeAllegro.cpp" />
+		<Unit filename="mazeFileFunctions.cpp" />
+		<Unit filename="mazeMain.cpp" />
+		<Unit filename="monsterFunctions.cpp" />
+		<Unit filename="replay.cpp" />
+		<Unit filename="resetCharacter.cpp" />
+		<Unit filename="selectCharacter.cpp" />
+		<Unit filename="timeAndScoreTracker.cpp" />
+		<Unit filename="titlePage.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger>
+				<search_path add="C:\Users\joe\Downloads\Zhang_Joe ICS 3U Summative 120519\Zhang_Joe ICS 3U Summative 120419\mazeGame\" />
+			</debugger>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

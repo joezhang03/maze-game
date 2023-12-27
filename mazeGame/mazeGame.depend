@@ -1,0 +1,5332 @@
+# depslib dependency file v1.0
+1575298178 source:p:\zhang_joe ics 3u summative\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575298178 p:\zhang_joe ics 3u summative\mazegame\maze.h
+
+1575341448 source:c:\users\joe\downloads\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575341195 c:\users\joe\downloads\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\maze.h
+
+1575342377 source:c:\users\joe\downloads\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575340702 source:c:\users\joe\downloads\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575342348 source:c:\users\joe\downloads\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575387697 source:p:\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575386327 p:\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\maze.h
+
+1575386105 source:p:\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575386384 source:p:\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575386116 source:p:\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575424586 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120319\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575427467 c:\users\joe\downloads\zhang_joe ics 3u summative 120319\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\maze.h
+
+1575425723 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120319\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575422057 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120319\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575425189 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120319\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575424349 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120319\zhang_joe ics 3u summative 120219\zhang_joe ics 3u summative\zhang_joe ics 3u summative\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575509744 source:c:\users\joe\downloads\zhang_joe ics 3u summative\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575511022 c:\users\joe\downloads\zhang_joe ics 3u summative\mazegame\maze.h
+
+1575468688 source:c:\users\joe\downloads\zhang_joe ics 3u summative\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575427331 source:c:\users\joe\downloads\zhang_joe ics 3u summative\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575422057 source:c:\users\joe\downloads\zhang_joe ics 3u summative\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575508648 source:c:\users\joe\downloads\zhang_joe ics 3u summative\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575559182 source:p:\zhang_joe ics 3u summative 120419\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575559209 p:\zhang_joe ics 3u summative 120419\mazegame\maze.h
+
+1575559197 source:p:\zhang_joe ics 3u summative 120419\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575559204 source:p:\zhang_joe ics 3u summative 120419\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575559214 source:p:\zhang_joe ics 3u summative 120419\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575559223 source:p:\zhang_joe ics 3u summative 120419\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575559241 source:p:\zhang_joe ics 3u summative 120419\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"maze.h"
+
+1575670179 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575854828 c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\maze.h
+
+1575670292 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575854229 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575854282 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575670179 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575766512 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575854561 source:c:\users\joe\downloads\zhang_joe ics 3u summative 120519\zhang_joe ics 3u summative 120419\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575904948 source:p:\zhang_joe ics 3u summative 120819\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575989449 p:\zhang_joe ics 3u summative 120819\mazegame\maze.h
+
+1575987566 source:p:\zhang_joe ics 3u summative 120819\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575905682 source:p:\zhang_joe ics 3u summative 120819\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575904951 source:p:\zhang_joe ics 3u summative 120819\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575908143 source:p:\zhang_joe ics 3u summative 120819\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575904954 source:p:\zhang_joe ics 3u summative 120819\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575989767 source:p:\zhang_joe ics 3u summative 120819\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1575989489 source:p:\zhang_joe ics 3u summative 120819\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576033004 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576033099 c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\maze.h
+
+1576033151 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576024325 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576024325 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576024326 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576033099 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576028963 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576033050 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121019\zhang_joe ics 3u summative 120819\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576077971 source:p:\zhang_joe ics 3u summative 121119\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576161421 p:\zhang_joe ics 3u summative 121119\mazegame\maze.h
+
+1576078011 source:p:\zhang_joe ics 3u summative 121119\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576078031 source:p:\zhang_joe ics 3u summative 121119\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576161590 source:p:\zhang_joe ics 3u summative 121119\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576078049 source:p:\zhang_joe ics 3u summative 121119\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576162235 source:p:\zhang_joe ics 3u summative 121119\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576158853 source:p:\zhang_joe ics 3u summative 121119\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576162589 source:p:\zhang_joe ics 3u summative 121119\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576077972 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576252553 p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\maze.h
+
+1576078012 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576253691 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576078050 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576252451 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576252585 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576251097 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576252520 source:p:\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576276039 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576276039 c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\maze.h
+
+1576276039 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576273780 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576273780 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576273780 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576273780 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576274644 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576273781 source:c:\users\joe\downloads\zhang_joe ics 3u summative 121319\zhang_joe ics 3u summative 121219\zhang_joe ics 3u summative 121119\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505235 source:p:\zhang_joe_ics 3u summative 121519\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505250 p:\zhang_joe_ics 3u summative 121519\mazegame\maze.h
+
+1576505240 source:p:\zhang_joe_ics 3u summative 121519\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505242 source:p:\zhang_joe_ics 3u summative 121519\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505245 source:p:\zhang_joe_ics 3u summative 121519\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505252 source:p:\zhang_joe_ics 3u summative 121519\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505252 source:p:\zhang_joe_ics 3u summative 121519\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505255 source:p:\zhang_joe_ics 3u summative 121519\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505258 source:p:\zhang_joe_ics 3u summative 121519\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576507098 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576597328 p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\maze.h
+
+1576505244 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576507094 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505254 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505254 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505260 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576596391 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576596390 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576596434 source:p:\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576596392 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576678701 p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\maze.h
+
+1576678752 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505244 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576507094 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505254 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576678588 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576596436 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576679948 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576678701 source:p:\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772215 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772171 p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\maze.h
+
+1576772172 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772170 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505254 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576679950 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576678590 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576596436 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772227 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772322 source:p:\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772216 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576852043 p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\maze.h
+
+1576772174 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576852191 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772172 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576505254 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576679950 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576772324 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576851286 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1576596436 source:p:\zhang_joe_ics 3u summative 121919\zhang_joe_ics 3u summative 121819\zhang_joe_ics 3u summative 121719\zhang_joe_ics 3u summative 121619\zhang_joe_ics 3u summative 121519\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577988165 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578184135 c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\maze.h
+
+1578076719 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578075700 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577070678 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577985297 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577070678 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578184135 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577131324 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577111854 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577115053 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1577988466 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578270904 source:c:\users\joe\downloads\zhang_joe ics 3u summative 122219\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578319003 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578320541 p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\maze.h
+
+1578320627 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578319004 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578320551 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578319006 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578319008 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578319008 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578322096 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578319011 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578320567 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578320199 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578319014 source:p:\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578414098 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578414098 p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\maze.h
+
+1578413631 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410082 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410083 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410085 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410091 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410091 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578413660 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410096 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578413407 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410096 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578410097 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578414114 source:p:\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578451582 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449542 c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\maze.h
+
+1578449541 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449541 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449541 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449541 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449542 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449542 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578450485 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449542 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449542 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578452033 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449542 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578449543 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491657 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578494685 p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\maze.h
+
+1578491658 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491658 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491660 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491664 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491669 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491669 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578495642 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491672 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491673 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491673 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491674 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578491675 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578495531 source:p:\zhang_joe ics 3u summative 010720new\zhang_joe ics 3u summative 010720\zhang_joe ics 3u summative 010620 (1)\zhang_joe ics 3u summative 010520\zhang_joe ics 3u summative 122219\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578538185 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578535750 c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\maze.h
+
+1578535750 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578533854 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578535750 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578533854 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578533855 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578533855 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578538185 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578533856 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578538564 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578538717 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578536164 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578533856 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578536266 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010820\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582917 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578584964 p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\maze.h
+
+1578584965 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582919 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582920 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578586425 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582923 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582923 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578584966 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582928 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578584980 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582930 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582931 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582932 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578582933 source:p:\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605734 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605735 c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\maze.h
+
+1578605734 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605734 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605735 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605735 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605735 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605735 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578606117 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605735 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605735 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605736 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605736 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605736 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578605736 source:c:\users\joe\downloads\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666280 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578667995 \\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\maze.h
+
+1578666286 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666288 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666290 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666291 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666292 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666292 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578667554 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666301 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666301 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666302 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666303 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578666304 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578668217 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578667997 source:\\ad.ocdsb.ca\studenthome\7\s346592057\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689277 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578692242 c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\maze.h
+
+1578689278 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689278 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578692011 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689279 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689279 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578690093 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689280 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578881124 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689281 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689281 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689281 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689281 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578689281 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578881050 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578692120 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011020\zhang_joe ics 3u summative 010920new\zhang_joe ics 3u summative 010920\zhang_joe ics 3u summative 010820new\zhang_joe ics 3u summative 010820\mazegame\instructions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928493 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578932542 p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\maze.h
+
+1578928494 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928496 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928498 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928499 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928503 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928505 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\instructions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928506 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928506 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928508 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928513 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928514 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928514 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928517 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928517 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1578928518 source:p:\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013134 p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\maze.h
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579009828 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\instructions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579009829 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013767 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579012247 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013767 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013768 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579013767 source:p:\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141538 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579140573 c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\maze.h
+
+1579142373 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579140011 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579140127 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141538 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141273 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579140573 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141273 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141727 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141538 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141538 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579140207 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579116726 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141538 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579141538 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579116726 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011420\zhang_joe ics 3u summative 011320 (1)\zhang_joe ics 3u summative 011220\zhang_joe ics 3u summative 011220\mazegame\instructions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182917 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579184669 p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\maze.h
+
+1579182922 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182924 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182925 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182926 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182929 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579183465 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\instructions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182935 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182935 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579184669 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182944 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579184668 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182947 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182949 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182950 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579182951 source:p:\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579226697 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579226697 c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\maze.h
+
+1579226696 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579226696 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579209758 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579226697 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579209758 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579209758 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\instructions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579226696 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579226697 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579227497 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579209759 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579227180 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579209759 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579226843 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579209759 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579209759 source:c:\users\joe\downloads\zhang_joe ics 3u summative 011620\zhang_joe ics 3u summative 011520\zhang_joe ics 3u summative 011520\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579230297 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\boundaryfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579230297 c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\maze.h
+
+1579230296 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\characterfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579231701 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\checkwinfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579213358 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\credits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579230297 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\drawfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579213358 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\generatemaze.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579213358 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\instructions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579230296 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\mazeallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579230297 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\mazefilefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579231097 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\mazemain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579213359 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\monsterfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579230780 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\replay.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579213359 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\resetcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579230443 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\selectcharacter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579213359 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\timeandscoretracker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
+1579213359 source:c:\users\joe\downloads\zhang_joe_ics 3u summative final\mazegame\titlepage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"maze.h"
+
